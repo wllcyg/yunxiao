@@ -1,5 +1,5 @@
 
-FROM node:lts-alpine
+FROM registry.cn-beijing.aliyuncs.com/my-repo/node:lts-alpine
 
 WORKDIR /app
 
